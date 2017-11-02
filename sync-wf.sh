@@ -28,8 +28,10 @@ sync () {
   runGit push
 }
 
-sync /home/nick/.local/bin/wolf "--"
+cd /home/nick/.wolf
 sync
+#sync /home/nick/.local/bin/wolf "--"
+#sync
 cd /home/nick/workflow
 sync
 cd /home/nick/ref/sus-depot
