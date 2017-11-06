@@ -38,3 +38,7 @@ cd /home/nick/ref/sus-depot
 sync 
 cd /home/nick/scripts
 sync 
+cd /home/nick/PI/Vidal/TNR
+sync
+cd /home/nick/PI/Vidal/cTNR
+sync
