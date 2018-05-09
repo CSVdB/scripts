@@ -36,3 +36,5 @@ cd ~/scripts
 sync 
 cd ~/ref/sus-depot
 sync 
+cd ~/ref/personal_growth
+sync 
