@@ -38,3 +38,5 @@ cd ~/ref/sus-depot
 sync 
 cd ~/ref/personal_growth
 sync 
+cd ~/ref/food
+sync 
