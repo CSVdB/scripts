@@ -40,3 +40,5 @@ cd ~/ref/personal_growth
 sync 
 cd ~/ref/food
 sync 
+cd ~/ref/talks
+sync 
