@@ -44,3 +44,5 @@ cd ~/ref/talks
 sync 
 cd ~/ref/CV
 sync 
+cd ~/ref/blog
+sync 
