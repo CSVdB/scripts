@@ -46,3 +46,5 @@ cd ~/ref/CV
 sync 
 cd ~/ref/blog
 sync 
+cd ~/ref/swe/jobhunt
+sync 
