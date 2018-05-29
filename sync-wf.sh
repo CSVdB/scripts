@@ -5,31 +5,26 @@ set -x
 
 
 sync () {
-  name=$1
-  sep=$2
-  runGit () {
-    if [[ "$name" == "" ]]
-    then
-        git "$@"
-    else
-        $name git $1 $sep "${@:2}"
-    fi
-  }
+  if [[ $1 == '' ]]
+    then name='origin'
+    else name=$1
+  fi
 
-  runGit fetch origin
-  runGit status
-  runGit merge --ff-only origin/master
-  changes=$(runGit status --porcelain)
+  git fetch $name
+  git status
+  git merge --ff-only $name/master
+  changes=$(git status --porcelain)
   if [[ "$changes" != "" ]]
   then
-    runGit add .
-    runGit commit -m "Sync commit from $(uname --nodename)"
+    git add .
+    git commit -m "Sync commit from $(uname --nodename)"
   fi
-  runGit push
+  git push --all --repo=$name
 }
 
 cd ~/.wolf
 sync
+sync webui
 cd ~/workflow
 sync
 cd ~/scripts
