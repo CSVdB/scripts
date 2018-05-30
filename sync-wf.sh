@@ -22,11 +22,11 @@ sync () {
   git push --all --repo=$name
 }
 
+cd ~/workflow
+sync
 cd ~/.wolf
 sync
 sync webui
-cd ~/workflow
-sync
 cd ~/scripts
 sync 
 cd ~/ref/sus-depot
