@@ -48,3 +48,5 @@ cd ~/ref/swe/jobhunt
 sync 
 cd ~/ref/company
 sync 
+cd ~/ref/swe
+sync 
