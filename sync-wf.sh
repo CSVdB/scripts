@@ -50,3 +50,4 @@ cd ~/ref/company
 sync 
 cd ~/ref/swe
 sync 
+intray sync
