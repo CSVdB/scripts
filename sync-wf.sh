@@ -42,7 +42,7 @@ cd ~/ref/talks
 sync 
 cd ~/ref/CV
 sync 
-cd ~/ref/blog
+cd ~/ref/website
 sync 
 cd ~/ref/swe/jobhunt
 sync 
