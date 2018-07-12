@@ -36,8 +36,6 @@ cd ~/ref/food
 sync 
 cd ~/ref/fitness
 sync 
-cd ~/ref/talks/conference-list
-sync 
 cd ~/ref/talks
 sync 
 cd ~/ref/CV
