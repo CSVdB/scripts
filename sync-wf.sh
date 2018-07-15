@@ -50,3 +50,4 @@ cd ~/ref/swe
 sync 
 cd ~/lumiguide
 sync 
+intray sync
