@@ -50,4 +50,4 @@ cd ~/ref/swe
 sync 
 cd ~/lumiguide
 sync 
-intray sync
+/home/nick.van.den.broeck/.local/bin/intray sync
