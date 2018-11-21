@@ -26,7 +26,7 @@ cd ~/workflow
 sync
 cd ~/.wolf
 sync
-cd ~/scripts
+cd ~/ref/sus-depot/shared/scripts
 sync 
 cd ~/ref/sus-depot
 sync 
