@@ -24,6 +24,8 @@ sync () {
 
 cd ~/workflow
 sync
+cd ~/ref/books
+sync
 cd ~/.wolf
 sync
 cd ~/ref/sus-depot/shared/scripts
