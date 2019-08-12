@@ -41,12 +41,14 @@ sync
 cd ~/ref/talks
 sync 
 cd ~/ref/CV
-sync 
+sync
 cd ~/ref/website
-sync 
+sync
 cd ~/ref/swe/jobhunt
-sync 
+sync
 cd ~/ref/company
+sync
+cd ~/ref/big-company
 sync 
 cd ~/ref/swe
 sync 
