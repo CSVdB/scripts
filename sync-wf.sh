@@ -36,6 +36,8 @@ cd ~/ref/personal_growth
 sync 
 cd ~/ref/food
 sync 
+cd ~/ref/travel
+sync 
 cd ~/ref/fitness
 sync 
 cd ~/ref/talks
@@ -49,9 +51,9 @@ sync
 cd ~/ref/company
 sync
 cd ~/ref/big-company
-sync 
-cd ~/ref/swe
-sync 
-cd ~/lumiguide
+sync
+cd ~/ref/books
+sync
+cd ~/ref/administration
 sync 
 intray sync
