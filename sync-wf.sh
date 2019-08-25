@@ -5,12 +5,10 @@ set -x
 
 
 sync () {
-  if [[ $1 == '' ]]
-    then name='origin'
-    else name=$1
-  fi
+  name=$1
 
-  git fetch $name
+  cd name
+  git fetch origin
   git status
   git merge --ff-only $name/master
   changes=$(git status --porcelain)
@@ -22,38 +20,20 @@ sync () {
   git push --all --repo=$name
 }
 
-cd ~/workflow
-sync
-cd ~/ref/books
-sync
-cd ~/.wolf
-sync
-cd ~/ref/sus-depot/shared/scripts
-sync 
-cd ~/ref/sus-depot
-sync 
-cd ~/ref/personal_growth
-sync 
-cd ~/ref/food
-sync 
-cd ~/ref/travel
-sync 
-cd ~/ref/fitness
-sync 
-cd ~/ref/talks
-sync 
-cd ~/ref/CV
-sync
-cd ~/ref/website
-sync
-cd ~/ref/swe/jobhunt
-sync
-cd ~/ref/company
-sync
-cd ~/ref/big-company
-sync
-cd ~/ref/books
-sync
-cd ~/ref/administration
-sync 
+sync ~/workflow
+sync ~/ref/books
+sync ~/.wolf
+sync ~/ref/sus-depot/shared/scripts
+sync ~/ref/sus-depot
+sync ~/ref/personal_growth
+sync ~/ref/food
+sync ~/ref/travel
+sync ~/ref/fitness
+sync ~/ref/talks
+sync ~/ref/CV
+sync ~/ref/website
+sync ~/ref/past/swe/jobhunt
+sync ~/ref/company
+sync ~/ref/big-company
+sync ~/ref/administration
 intray sync
