@@ -7,7 +7,7 @@ set -x
 sync () {
   name=$1
 
-  cd name
+  cd $name
   git fetch origin
   git status
   git merge --ff-only $name/master
