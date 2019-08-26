@@ -10,14 +10,14 @@ sync () {
   cd $name
   git fetch origin
   git status
-  git merge --ff-only $name/master
+  git merge --ff-only origin/master
   changes=$(git status --porcelain)
   if [[ "$changes" != "" ]]
   then
     git add .
     git commit -m "Sync commit from $(uname --nodename)"
   fi
-  git push --all --repo=$name
+  git push --all --repo=origin
 }
 
 sync ~/workflow
