@@ -32,7 +32,7 @@ sync ~/ref/fitness
 sync ~/ref/talks
 sync ~/ref/CV
 sync ~/ref/website
-sync ~/ref/past/swe/jobhunt
+sync ~/ref/swe/jobhunt
 sync ~/ref/company
 sync ~/ref/big-company
 sync ~/ref/administration
