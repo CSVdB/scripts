@@ -22,18 +22,16 @@ sync () {
 
 sync ~/workflow
 sync ~/ref/books
-sync ~/.wolf
 sync ~/ref/sus-depot/shared/scripts
 sync ~/ref/sus-depot
 sync ~/ref/personal_growth
-sync ~/ref/food
+sync ~/ref/body/food
 sync ~/ref/travel
-sync ~/ref/fitness
-sync ~/ref/talks
-sync ~/ref/CV
-sync ~/ref/website
-sync ~/ref/swe/jobhunt
-sync ~/ref/company
-sync ~/ref/big-company
+sync ~/ref/body/fitness
+# sync ~/ref/talks
+# sync ~/ref/CV
+# sync ~/ref/swe/jobhunt
+# sync ~/ref/company
+# sync ~/ref/big-company
 sync ~/ref/administration
 intray sync
