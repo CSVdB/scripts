@@ -36,5 +36,5 @@ sync ~/ref/CV;
 sync ~/ref/administration;
 sync ~/.scripts;
 intray sync;
-rm -rf ~/snap;
+# rm -rf ~/snap;
 rm -rf ~/NoMachine;
