@@ -39,4 +39,4 @@ intray sync;
 rm -rf ~/snap;
 rm -rf ~/NoMachine;
 
-redshift -l 50:0 &
+# redshift &
