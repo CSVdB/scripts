@@ -31,7 +31,7 @@ sync ~/ref/relu;
 sync ~/ref/talks;
 sync ~/ref/CV;
 sync ~/ref/jobhunt;
-# sync ~/ref/company;
+sync ~/ref/company;
 # sync ~/ref/big-company;
 sync ~/ref/administration;
 sync ~/.scripts;
