@@ -34,6 +34,7 @@ sync ~/ref/jobhunt;
 sync ~/ref/company;
 # sync ~/ref/big-company;
 sync ~/ref/administration;
+sync ~/ref/health-home;
 sync ~/.scripts;
 intray sync;
 rm -rf ~/snap;
