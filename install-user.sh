@@ -8,6 +8,10 @@ chsh -s $(which zsh) # Change default shell to zsh. Only applies once desktop en
 
 # Intray
 stack install autoexporter
+git clone https://github.com/NorfairKing/intray.git --recursive
+cd intray
 stack install :intray
+cd ..
+rm -rf intray
 
 
