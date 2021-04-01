@@ -4,6 +4,9 @@
 - Open chrome
   * Set as default browser
   * Turn on syncing, to use the proper add-ons, history, credentials..
+  * Log into your github account
+- Run `create-ssh-key.sh`
+- Paste the resulting ssh key into your github account
 
 
 
