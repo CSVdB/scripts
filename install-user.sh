@@ -6,4 +6,8 @@ sudo apt-get install zsh
 sudo update-alternatives --set x-terminal-emulator /usr/bin/urxvt # change default terminal to urxvt
 chsh -s $(which zsh) # Change default shell to zsh. Only applies once desktop env is restarted.
 
+# Intray
+stack install autoexporter
+stack install :intray
+
 
