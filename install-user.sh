@@ -15,4 +15,10 @@ stack install :intray
 cd ..
 rm -rf intray
 
+git clone https://github.com/NorfairKing/super-user-spark.git --recursive
+cd super-user-spark
+stack install
+cd ..
+rm -rf super-user-spark
+
 
