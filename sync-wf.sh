@@ -36,6 +36,7 @@ sync ~/ref/company;
 # sync ~/ref/big-company;
 sync ~/ref/administration;
 sync ~/ref/network;
+sync ~/ref/dsl;
 sync ~/.scripts;
 intray sync;
 rm -rf ~/snap;
