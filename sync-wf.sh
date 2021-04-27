@@ -20,26 +20,26 @@ sync () {
   git push --all --repo=origin
 }
 
-sync ~/workflow;
-sync ~/ref/books;
-sync ~/ref/sus-depot/shared/scripts;
-sync ~/ref/sus-depot;
-sync ~/ref/personal-growth;
-sync ~/ref/body/food;
-sync ~/ref/travel;
-sync ~/ref/body/fitness;
-sync ~/ref/relu;
-sync ~/ref/talks;
-sync ~/ref/CV;
-sync ~/ref/jobhunt;
-sync ~/ref/company;
-# sync ~/ref/big-company;
-sync ~/ref/administration;
-sync ~/ref/network;
-sync ~/ref/dsl;
-sync ~/.scripts;
+sync /home/nick/workflow;
+sync /home/nick/ref/books;
+sync /home/nick/ref/sus-depot/shared/scripts;
+sync /home/nick/ref/sus-depot;
+sync /home/nick/ref/personal-growth;
+sync /home/nick/ref/body/food;
+sync /home/nick/ref/travel;
+sync /home/nick/ref/body/fitness;
+sync /home/nick/ref/relu;
+sync /home/nick/ref/talks;
+sync /home/nick/ref/CV;
+sync /home/nick/ref/jobhunt;
+sync /home/nick/ref/company;
+# sync /home/nick/ref/big-company;
+sync /home/nick/ref/administration;
+sync /home/nick/ref/network;
+sync /home/nick/ref/dsl;
+sync /home/nick/.scripts;
 intray sync;
-rm -rf ~/snap;
-rm -rf ~/NoMachine;
+rm -rf /home/nick/snap;
+rm -rf /home/nick/NoMachine;
 
 # redshift &
