@@ -40,6 +40,5 @@ sync /home/nick/ref/dsl;
 sync /home/nick/.scripts;
 intray sync;
 rm -rf /home/nick/snap;
-rm -rf /home/nick/NoMachine;
 
 # redshift &
