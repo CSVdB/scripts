@@ -40,6 +40,6 @@ sync /home/nick/ref/dsl;
 sync /home/nick/.scripts;
 intray sync;
 rm -rf /home/nick/snap;
-python3 /home/nick/Pictures/background/walltext.py
+python3 /home/nick/Pictures/background/walltext.py &
 
 # redshift &
