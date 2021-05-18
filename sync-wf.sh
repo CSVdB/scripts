@@ -37,6 +37,7 @@ sync /home/nick/ref/company;
 sync /home/nick/ref/administration;
 sync /home/nick/ref/network;
 sync /home/nick/ref/dsl;
+sync /home/nick/ref/strategy-consulting;
 sync /home/nick/.scripts;
 intray sync;
 rm -rf /home/nick/snap;
