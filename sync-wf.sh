@@ -41,6 +41,7 @@ sync /home/nick/ref/strategy-consulting;
 sync /home/nick/.scripts;
 intray sync;
 rm -rf /home/nick/snap;
+rm -rf /home/nick/NoMachine;
 python3 /home/nick/Pictures/background/walltext.py &
 
 # redshift &
