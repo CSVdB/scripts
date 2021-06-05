@@ -25,6 +25,7 @@ sync /home/nick/ref/books;
 sync /home/nick/ref/sus-depot/shared/scripts;
 sync /home/nick/ref/sus-depot;
 sync /home/nick/ref/personal-growth;
+sync /home/nick/ref/entrepreneur;
 sync /home/nick/ref/body/food;
 sync /home/nick/ref/travel;
 sync /home/nick/ref/body/fitness;
