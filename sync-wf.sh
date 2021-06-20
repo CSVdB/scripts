@@ -20,6 +20,8 @@ sync () {
   git push --all --repo=origin
 }
 
+rm -rf /home/nick/snap;
+rm -rf /home/nick/NoMachine;
 sync /home/nick/workflow;
 sync /home/nick/ref/books;
 sync /home/nick/ref/sus-depot/shared/scripts;
@@ -43,8 +45,6 @@ sync /home/nick/ref/strategy-consulting;
 sync /home/nick/ref/engineering;
 sync /home/nick/.scripts;
 intray sync;
-rm -rf /home/nick/snap;
-rm -rf /home/nick/NoMachine;
 python3 /home/nick/Pictures/background/walltext.py &
 
 # redshift &
