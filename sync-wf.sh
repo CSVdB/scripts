@@ -21,6 +21,7 @@ sync () {
 }
 
 rm -rf /home/nick/snap;
+rm -rf /home/nick/NoMachine;
 sync /home/nick/workflow;
 sync /home/nick/ref/books;
 sync /home/nick/ref/sus-depot/shared/scripts;
