@@ -25,7 +25,7 @@ sync /home/nick/workflow;
 sync /home/nick/ref/books;
 sync /home/nick/.scripts;
 sync /home/nick/ref/sus-depot;
-rm /home/nick/ref/personal-growth/personal/today.md
+rm -rf /home/nick/ref/personal-growth/personal/today.md
 sync /home/nick/ref/personal-growth;
 sync /home/nick/ref/entrepreneur;
 sync /home/nick/ref/body/food;
