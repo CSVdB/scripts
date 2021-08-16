@@ -22,18 +22,16 @@ sync () {
 
 rm -rf /home/nick/snap;
 sync /home/nick/workflow;
+rm -rf /home/nick/ref/personal-growth/personal/today.md
+sync /home/nick/ref/personal-growth;
+sync /home/nick/ref/platonic;
 sync /home/nick/ref/books;
 sync /home/nick/.scripts;
 sync /home/nick/ref/sus-depot;
-rm -rf /home/nick/ref/personal-growth/personal/today.md
-sync /home/nick/ref/personal-growth;
 sync /home/nick/ref/entrepreneur;
 sync /home/nick/ref/body/food;
 sync /home/nick/ref/body/fitness;
 sync /home/nick/ref/travel;
-sync /home/nick/ref/past/relu;
-sync /home/nick/ref/past/dsl;
-sync /home/nick/ref/past/talks;
 sync /home/nick/ref/CV;
 sync /home/nick/ref/jobhunt;
 sync /home/nick/ref/company;
