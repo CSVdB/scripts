@@ -33,7 +33,7 @@ sync /home/nick/ref/body/fitness;
 sync /home/nick/ref/travel;
 sync /home/nick/ref/past/relu;
 sync /home/nick/ref/past/dsl;
-sync /home/nick/ref/talks;
+sync /home/nick/ref/past/talks;
 sync /home/nick/ref/CV;
 sync /home/nick/ref/jobhunt;
 sync /home/nick/ref/company;
