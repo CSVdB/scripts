@@ -24,7 +24,7 @@ rm -rf /home/nick/snap;
 sync /home/nick/workflow;
 rm -rf /home/nick/ref/personal-growth/personal/today.md
 sync /home/nick/ref/personal-growth;
-sync /home/nick/ref/platonic;
+sync /home/nick/ref/platonic/personal;
 sync /home/nick/ref/books;
 sync /home/nick/.scripts;
 sync /home/nick/ref/sus-depot;
