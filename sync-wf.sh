@@ -39,7 +39,5 @@ sync /home/nick/ref/network;
 sync /home/nick/ref/strategy-consulting;
 intray sync;
 python3 /home/nick/Pictures/background/walltext.py &
-smos-scheduler schedule
-rm ~/workflow/projects/daily.smos
 
 # redshift &
