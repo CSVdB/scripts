@@ -36,7 +36,7 @@ sync /home/nick/ref/jobhunt;
 sync /home/nick/ref/company;
 sync /home/nick/ref/administration;
 sync /home/nick/ref/network;
-sync /home/nick/ref/strategy-consulting;
+sync /home/nick/ref/past/strategy-consulting;
 intray sync;
 python3 /home/nick/Pictures/background/walltext.py &
 
