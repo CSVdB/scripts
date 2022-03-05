@@ -26,7 +26,6 @@ sync /home/nick/ref/personal-growth;
 sync /home/nick/ref/platonic/personal;
 sync /home/nick/ref/books;
 sync /home/nick/.scripts;
-sync /home/nick/ref/sus-depot;
 sync /home/nick/ref/entrepreneur;
 sync /home/nick/ref/body;
 sync /home/nick/ref/travel;
