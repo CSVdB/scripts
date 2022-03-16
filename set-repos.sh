@@ -18,7 +18,7 @@ setRepo entrepreneurship ref/entrepreneur
 setRepo body ref/body
 setRepo travel ref/travel
 setRepo CV ref/CV
-setRepo ref/jobhunt
-setRepo ref/company
-setRepo ref/administration
-setRepo ref/network
+setRepo jobhunt ref/jobhunt
+setRepo company ref/company
+setRepo administration ref/administration
+setRepo network ref/network
