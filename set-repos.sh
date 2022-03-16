@@ -24,4 +24,5 @@ setRepo administration ref/administration
 setRepo network ref/network
 setRepo PACT-deployment ref/code/deployment
 setRepo PACT-personal ref/pact
+setRepo platonic ref/platonic
 git clone git@github.com:NorfairKing/salsa.git /ref/code/salsa
