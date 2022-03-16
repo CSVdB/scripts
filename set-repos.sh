@@ -22,3 +22,5 @@ setRepo jobhunt ref/jobhunt
 setRepo company ref/company
 setRepo administration ref/administration
 setRepo network ref/network
+setRepo PACT-deployment ref/code/deployment
+git clone git@github.com:NorfairKing/salsa.git /ref/code/salsa
