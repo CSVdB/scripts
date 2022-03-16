@@ -10,7 +10,7 @@ setRepo () {
 }
 
 setRepo my_workflow workflow
-setRepo personal-growth personal-growth
+setRepo personal-growth ref/personal-growth
 setRepo platonic-systems ref/platonic/personal
 setRepo books ref/books
 setRepo scripts .scripts
