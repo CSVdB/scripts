@@ -11,13 +11,13 @@ setRepo () {
 
 setRepo my_workflow workflow
 setRepo personal-growth personal-growth
-setRepo ref/platonic/personal
-setRepo ref/books
-setRepo .scripts
-setRepo ref/entrepreneur
-setRepo ref/body
-setRepo ref/travel
-setRepo ref/CV
+setRepo platonic-systems ref/platonic/personal
+setRepo books ref/books
+setRepo scripts .scripts
+setRepo entrepreneurship ref/entrepreneur
+setRepo body ref/body
+setRepo travel ref/travel
+setRepo CV ref/CV
 setRepo ref/jobhunt
 setRepo ref/company
 setRepo ref/administration
