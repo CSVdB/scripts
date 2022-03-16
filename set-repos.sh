@@ -6,7 +6,7 @@ setRepo () {
   name=$1
   directory=$2
   mkdir -p ~/tmp/$directory
-  git clone git@github.com:CSVdB/$name.git ~/tmp/$directory
+  git clone git@github.com:CSVdB/$name.git ~/tmp/$directory --recursive
 }
 
 setRepo my_workflow workflow
@@ -23,4 +23,5 @@ setRepo company ref/company
 setRepo administration ref/administration
 setRepo network ref/network
 setRepo PACT-deployment ref/code/deployment
+setRepo PACT-personal ref/pact
 git clone git@github.com:NorfairKing/salsa.git /ref/code/salsa
