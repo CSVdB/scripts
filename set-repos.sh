@@ -19,7 +19,6 @@ setRepo scripts .scripts
 setRepo entrepreneurship ref/entrepreneur
 setRepo body ref/body
 setRepo travel ref/travel
-setRepo CV ref/CV
 setRepo administration ref/administration
 setRepo network ref/network
 setRepo PACT-deployment ref/code/deployment
