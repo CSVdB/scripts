@@ -29,7 +29,6 @@ sync /home/nick/ref/entrepreneur
 sync /home/nick/ref/body
 sync /home/nick/ref/travel
 sync /home/nick/ref/CV
-sync /home/nick/ref/jobhunt
 sync /home/nick/ref/administration
 sync /home/nick/ref/network
 intray sync
