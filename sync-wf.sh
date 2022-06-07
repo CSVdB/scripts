@@ -34,4 +34,3 @@ sync /home/nick/ref/administration
 sync /home/nick/ref/sus-depot
 sync /home/nick/ref/network
 intray sync
-python3 /home/nick/Pictures/background/walltext.py &
