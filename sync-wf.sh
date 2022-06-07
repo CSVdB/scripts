@@ -31,6 +31,7 @@ sync /home/nick/ref/entrepreneur
 sync /home/nick/ref/body
 sync /home/nick/ref/travel
 sync /home/nick/ref/administration
+sync /home/nick/ref/sus-depot
 sync /home/nick/ref/network
 intray sync
 python3 /home/nick/Pictures/background/walltext.py &
