@@ -20,6 +20,7 @@ sync () {
   git push --all --repo=origin
 }
 
+rm -rf /home/nick/snap
 sync /home/nick/workflow
 sync /home/nick/ref/personal-growth
 sync /home/nick/ref/platonic/personal
