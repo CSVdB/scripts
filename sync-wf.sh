@@ -35,4 +35,5 @@ sync /home/nick/ref/travel
 sync /home/nick/ref/administration
 sync /home/nick/ref/sus-depot
 sync /home/nick/ref/network
+sync /home/nick/ref/code/deployment
 intray sync
