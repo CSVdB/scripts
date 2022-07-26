@@ -29,6 +29,7 @@ sync /home/nick/ref/platonic/floorboard-public
 sync /home/nick/ref/platonic/jusx
 sync /home/nick/ref/books
 sync /home/nick/.scripts
+sync /home/nick/.install
 sync /home/nick/ref/entrepreneur
 sync /home/nick/ref/body
 sync /home/nick/ref/travel
