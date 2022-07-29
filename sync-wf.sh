@@ -27,6 +27,7 @@ sync /home/nick/ref/platonic/personal
 sync /home/nick/ref/platonic/floorboard
 # sync /home/nick/ref/platonic/floorboard-public
 sync /home/nick/ref/platonic/jusx
+sync /home/nick/ref/platonic/devils
 sync /home/nick/ref/books
 sync /home/nick/.scripts
 sync /home/nick/.install
