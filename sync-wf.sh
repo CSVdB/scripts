@@ -39,4 +39,4 @@ sync /home/nick/ref/sus-depot
 sync /home/nick/ref/network
 # sync /home/nick/ref/code/deployment
 intray sync
-rm ~/ref/personal-growth/personal/today.md
+rm -f ~/ref/personal-growth/personal/today.md
