@@ -25,7 +25,7 @@ sync /home/nick/workflow
 sync /home/nick/ref/personal-growth
 sync /home/nick/ref/platonic/personal
 sync /home/nick/ref/platonic/floorboard
-# sync /home/nick/ref/platonic/floorboard-public
+sync /home/nick/ref/platonic/manusticket
 sync /home/nick/ref/platonic/devils
 sync /home/nick/ref/books
 sync /home/nick/.scripts
