@@ -39,5 +39,3 @@ sync /home/nick/ref/jobhunt
 # sync /home/nick/ref/code/deployment
 intray sync
 rm -f ~/ref/personal-growth/personal/today.md
-smos-scheduler schedule
-rm ~/workflow/projects/sunday.smos
