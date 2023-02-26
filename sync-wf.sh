@@ -40,4 +40,4 @@ sync /home/nick/ref/jobhunt
 intray sync
 rm -f ~/ref/personal-growth/personal/today.md
 smos-scheduler schedule
-rm ~/workflow/sunday.smos
+rm ~/workflow/projects/sunday.smos
