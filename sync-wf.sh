@@ -25,7 +25,7 @@ sync /home/nick/workflow
 sync /home/nick/ref/personal-growth
 sync /home/nick/ref/platonic/personal
 sync /home/nick/ref/platonic/companies/devils
-# sync /home/nick/ref/platonic/companies/betabay
+sync /home/nick/ref/platonic/companies/betabay
 sync /home/nick/ref/platonic/companies/sisera
 sync /home/nick/ref/books
 sync /home/nick/.scripts
