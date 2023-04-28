@@ -24,7 +24,7 @@ rm -rf /home/nick/snap
 sync /home/nick/workflow
 sync /home/nick/ref/personal-growth
 sync /home/nick/ref/platonic/personal
-sync /home/nick/ref/platonic/companies/sisera
+sync /home/nick/ref/platonic/companies/tmax-personal
 sync /home/nick/ref/books
 sync /home/nick/.scripts
 sync /home/nick/.install
