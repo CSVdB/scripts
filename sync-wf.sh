@@ -27,7 +27,7 @@ sync /home/nick/ref/personal-growth
 sync /home/nick/ref/platonic/personal
 sync /home/nick/ref/platonic/companies/tmax-personal
 sync /home/nick/ref/platonic/companies/arty-artwave
-sync /home/nick/ref/platonic/casper/casper-personal
+sync /home/nick/ref/platonic/casper/personal
 sync /home/nick/ref/plow
 sync /home/nick/ref/books
 sync /home/nick/.scripts
